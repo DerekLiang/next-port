@@ -1,7 +1,8 @@
 [package]
 name = "next-port"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
+authors = ["Derek Liang <derek.liang.ca@gmai1.com>"]
 description = "A command line utility to get the next avaiable TCP/IP port on localhost."
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/DerekLiang/next-port"
